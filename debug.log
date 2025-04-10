@@ -1,0 +1,137 @@
+[2025-04-10 09:29:12] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php5DA6.tmp","error":0,"size":37660}
+[2025-04-10 10:17:09] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php41AD.tmp","error":0,"size":37660}
+[2025-04-10 10:17:09] File moved to: uploads/resume_67f77e85537c1.pdf
+[2025-04-10 10:17:09] PDF parsed successfully, text length: 1608
+[2025-04-10 10:17:09] Temporary file deleted
+[2025-04-10 10:17:09] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:17:09] Eligibility checked: {"match_percentage":100,"matching_skills":["html"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:17:09] Job matches found: 2
+[2025-04-10 10:17:50] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpE188.tmp","error":0,"size":37660}
+[2025-04-10 10:17:50] File moved to: uploads/resume_67f77eae42307.pdf
+[2025-04-10 10:17:50] PDF parsed successfully, text length: 1608
+[2025-04-10 10:17:50] Temporary file deleted
+[2025-04-10 10:17:50] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:17:50] Eligibility checked: {"match_percentage":100,"matching_skills":["html","css"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:17:50] Job matches found: 2
+[2025-04-10 10:17:59] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php647.tmp","error":0,"size":37660}
+[2025-04-10 10:17:59] File moved to: uploads/resume_67f77eb7a2d97.pdf
+[2025-04-10 10:17:59] PDF parsed successfully, text length: 1608
+[2025-04-10 10:17:59] Temporary file deleted
+[2025-04-10 10:17:59] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:17:59] Eligibility checked: {"match_percentage":66.67,"matching_skills":["html","css"],"missing_skills":["kdm"],"is_eligible":false}
+[2025-04-10 10:17:59] Job matches found: 2
+[2025-04-10 10:18:09] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php2E52.tmp","error":0,"size":37660}
+[2025-04-10 10:18:09] File moved to: uploads/resume_67f77ec1df17b.pdf
+[2025-04-10 10:18:09] PDF parsed successfully, text length: 1608
+[2025-04-10 10:18:09] Temporary file deleted
+[2025-04-10 10:18:09] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:18:09] Eligibility checked: {"match_percentage":100,"matching_skills":["html","css"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:18:09] Job matches found: 2
+[2025-04-10 10:36:05] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php9627.tmp","error":0,"size":37660}
+[2025-04-10 10:36:05] File moved to: uploads/resume_67f782f514066.pdf
+[2025-04-10 10:36:05] PDF parsed successfully, text length: 1608
+[2025-04-10 10:36:05] Temporary file deleted
+[2025-04-10 10:36:05] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:36:05] Eligibility checked: {"match_percentage":100,"matching_skills":["html","css","javascript"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:36:05] Job matches found: 2
+[2025-04-10 10:36:12] File received: {"name":"full-stack-developer-resume-example (1).pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpB4BC.tmp","error":0,"size":37660}
+[2025-04-10 10:36:12] File moved to: uploads/resume_67f782fcdd089.pdf
+[2025-04-10 10:36:12] PDF parsed successfully, text length: 1608
+[2025-04-10 10:36:12] Temporary file deleted
+[2025-04-10 10:36:12] Skills extracted: {"html":{"name":"html","confidence":0.8,"count":1},"css":{"name":"css","confidence":0.8,"count":1},"javascript":{"name":"javascript","confidence":0.8,"count":1},"react":{"name":"react","confidence":0.8,"count":1},"node.js":{"name":"node.js","confidence":0.8,"count":1},"angular":{"name":"angular","confidence":0.8,"count":1},"aws":{"name":"aws","confidence":0.8,"count":1}}
+[2025-04-10 10:36:12] Eligibility checked: {"match_percentage":75,"matching_skills":["html","css","javascript"],"missing_skills":["dhvdv"],"is_eligible":true}
+[2025-04-10 10:36:12] Job matches found: 2
+[2025-04-10 10:37:11] File received: {"name":"CLASSACTIVITYJQUERY2.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php9A1C.tmp","error":0,"size":156443}
+[2025-04-10 10:37:11] File moved to: uploads/resume_67f783379784f.pdf
+[2025-04-10 10:37:11] PDF parsed successfully, text length: 8245
+[2025-04-10 10:37:11] Temporary file deleted
+[2025-04-10 10:37:11] Skills extracted: {"html":{"name":"html","confidence":1,"count":3}}
+[2025-04-10 10:37:11] Eligibility checked: {"match_percentage":25,"matching_skills":["html"],"missing_skills":["css","javascript","dhvdv"],"is_eligible":false}
+[2025-04-10 10:37:11] Job matches found: 0
+[2025-04-10 10:51:37] File received: {"name":"Satyendra CV.pdf","full_path":"Satyendra CV.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php6E54.tmp","error":0,"size":286598}
+[2025-04-10 10:51:37] File moved to: uploads/resume_67f78699dfb41.pdf
+[2025-04-10 10:51:38] PDF parsed successfully, text length: 1475
+[2025-04-10 10:51:38] Temporary file deleted
+[2025-04-10 10:51:38] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"css":{"name":"css","confidence":1,"count":3},"javascript":{"name":"javascript","confidence":1,"count":2},"python":{"name":"python","confidence":1,"count":2},"java":{"name":"java","confidence":0.8,"count":1},"mysql":{"name":"mysql","confidence":0.8,"count":1},"sql":{"name":"sql","confidence":0.8,"count":1}}
+[2025-04-10 10:51:38] Eligibility checked: {"match_percentage":100,"matching_skills":["html"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:51:38] Job matches found: 2
+[2025-04-10 10:51:39] File received: {"name":"Satyendra CV.pdf","full_path":"Satyendra CV.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php7693.tmp","error":0,"size":286598}
+[2025-04-10 10:51:39] File moved to: uploads/resume_67f7869bd3c83.pdf
+[2025-04-10 10:51:39] PDF parsed successfully, text length: 1475
+[2025-04-10 10:51:39] Temporary file deleted
+[2025-04-10 10:51:39] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"css":{"name":"css","confidence":1,"count":3},"javascript":{"name":"javascript","confidence":1,"count":2},"python":{"name":"python","confidence":1,"count":2},"java":{"name":"java","confidence":0.8,"count":1},"mysql":{"name":"mysql","confidence":0.8,"count":1},"sql":{"name":"sql","confidence":0.8,"count":1}}
+[2025-04-10 10:51:39] Eligibility checked: {"match_percentage":100,"matching_skills":["html"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 10:51:39] Job matches found: 2
+[2025-04-10 11:10:07] Created upload directory
+[2025-04-10 11:10:07] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php5E08.tmp","error":0,"size":2041397}
+[2025-04-10 11:10:07] File moved to: uploads/resume_67f78aefb18f4.pdf
+[2025-04-10 11:10:08] PDF parsed successfully, text length: 2914
+[2025-04-10 11:10:08] Temporary file deleted
+[2025-04-10 11:10:08] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:10:08] Eligibility checked: {"match_percentage":100,"matching_skills":["python"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 11:10:08] Job matches found: 0
+[2025-04-10 11:10:30] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpB570.tmp","error":0,"size":2041397}
+[2025-04-10 11:10:30] File moved to: uploads/resume_67f78b06123de.pdf
+[2025-04-10 11:10:30] PDF parsed successfully, text length: 2914
+[2025-04-10 11:10:30] Temporary file deleted
+[2025-04-10 11:10:30] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:10:30] Eligibility checked: {"match_percentage":100,"matching_skills":["python"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 11:10:30] Job matches found: 0
+[2025-04-10 11:10:31] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpBCA5.tmp","error":0,"size":2041397}
+[2025-04-10 11:10:31] File moved to: uploads/resume_67f78b07e1e3a.pdf
+[2025-04-10 11:10:32] PDF parsed successfully, text length: 2914
+[2025-04-10 11:10:32] Temporary file deleted
+[2025-04-10 11:10:32] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:10:32] Eligibility checked: {"match_percentage":100,"matching_skills":["python"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 11:10:32] Job matches found: 0
+[2025-04-10 11:10:50] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php622.tmp","error":0,"size":2041397}
+[2025-04-10 11:10:50] File moved to: uploads/resume_67f78b1ab24da.pdf
+[2025-04-10 11:10:51] PDF parsed successfully, text length: 2914
+[2025-04-10 11:10:51] Temporary file deleted
+[2025-04-10 11:10:51] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:10:51] Job matches found: 0
+[2025-04-10 11:10:52] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpC5D.tmp","error":0,"size":2041397}
+[2025-04-10 11:10:52] File moved to: uploads/resume_67f78b1c4f875.pdf
+[2025-04-10 11:10:52] PDF parsed successfully, text length: 2914
+[2025-04-10 11:10:52] Temporary file deleted
+[2025-04-10 11:10:52] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:10:52] Job matches found: 0
+[2025-04-10 11:11:03] File received: {"name":"Satyendra CV.pdf","full_path":"Satyendra CV.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php37F2.tmp","error":0,"size":286598}
+[2025-04-10 11:11:03] File moved to: uploads/resume_67f78b2774cd8.pdf
+[2025-04-10 11:11:03] PDF parsed successfully, text length: 1475
+[2025-04-10 11:11:03] Temporary file deleted
+[2025-04-10 11:11:03] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"css":{"name":"css","confidence":1,"count":3},"javascript":{"name":"javascript","confidence":1,"count":2},"python":{"name":"python","confidence":1,"count":2},"java":{"name":"java","confidence":0.8,"count":1},"mysql":{"name":"mysql","confidence":0.8,"count":1},"sql":{"name":"sql","confidence":0.8,"count":1}}
+[2025-04-10 11:11:03] Job matches found: 2
+[2025-04-10 11:11:22] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php8141.tmp","error":0,"size":2041397}
+[2025-04-10 11:11:22] File moved to: uploads/resume_67f78b3a4068b.pdf
+[2025-04-10 11:11:22] PDF parsed successfully, text length: 2914
+[2025-04-10 11:11:22] Temporary file deleted
+[2025-04-10 11:11:22] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:11:22] Eligibility checked: {"match_percentage":100,"matching_skills":["python"],"missing_skills":[],"is_eligible":true}
+[2025-04-10 11:11:22] Job matches found: 0
+[2025-04-10 11:30:47] Created upload directory
+[2025-04-10 11:30:47] File received: {"name":"Satyendra CV.pdf","full_path":"Satyendra CV.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php483B.tmp","error":0,"size":286598}
+[2025-04-10 11:30:47] File moved to: uploads/resume_67f78fc746852.pdf
+[2025-04-10 11:30:47] PDF parsed successfully, text length: 1475
+[2025-04-10 11:30:47] Temporary file deleted
+[2025-04-10 11:30:47] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"css":{"name":"css","confidence":1,"count":3},"javascript":{"name":"javascript","confidence":1,"count":2},"python":{"name":"python","confidence":1,"count":2},"java":{"name":"java","confidence":0.8,"count":1},"mysql":{"name":"mysql","confidence":0.8,"count":1},"sql":{"name":"sql","confidence":0.8,"count":1}}
+[2025-04-10 11:30:47] Eligibility checked: {"match_percentage":0,"matching_skills":[],"missing_skills":["dsa"],"is_eligible":false}
+[2025-04-10 11:30:47] Job matches found: 2
+[2025-04-10 11:33:20] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php9CDA.tmp","error":0,"size":2041397}
+[2025-04-10 11:33:20] File moved to: uploads/resume_67f7906009974.pdf
+[2025-04-10 11:33:20] PDF parsed successfully, text length: 2914
+[2025-04-10 11:33:20] Temporary file deleted
+[2025-04-10 11:33:20] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:33:20] Job matches found: 0
+[2025-04-10 11:33:25] File received: {"name":"Satyendra Maurya Portfolio.pdf","full_path":"Satyendra Maurya Portfolio.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\phpB073.tmp","error":0,"size":2041397}
+[2025-04-10 11:33:25] File moved to: uploads/resume_67f790650cd2a.pdf
+[2025-04-10 11:33:25] PDF parsed successfully, text length: 2914
+[2025-04-10 11:33:25] Temporary file deleted
+[2025-04-10 11:33:25] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"python":{"name":"python","confidence":0.8,"count":1},"git":{"name":"git","confidence":1,"count":2}}
+[2025-04-10 11:33:25] Job matches found: 0
+[2025-04-10 11:33:49] File received: {"name":"Satyendra CV.pdf","full_path":"Satyendra CV.pdf","type":"application\/pdf","tmp_name":"C:\\xampp\\tmp\\php1037.tmp","error":0,"size":286598}
+[2025-04-10 11:33:49] File moved to: uploads/resume_67f7907d88e49.pdf
+[2025-04-10 11:33:49] PDF parsed successfully, text length: 1475
+[2025-04-10 11:33:49] Temporary file deleted
+[2025-04-10 11:33:49] Skills extracted: {"html":{"name":"html","confidence":1,"count":2},"css":{"name":"css","confidence":1,"count":3},"javascript":{"name":"javascript","confidence":1,"count":2},"python":{"name":"python","confidence":1,"count":2},"java":{"name":"java","confidence":0.8,"count":1},"mysql":{"name":"mysql","confidence":0.8,"count":1},"sql":{"name":"sql","confidence":0.8,"count":1}}
+[2025-04-10 11:33:49] Job matches found: 2
